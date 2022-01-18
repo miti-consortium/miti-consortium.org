@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Home
+nav-order: 1
 ---
 
 # MITI: Minimum Information about Tissue Imaging
@@ -18,25 +20,6 @@ A detailed specification of the standard is encoded in [YAML](https://yaml.org/)
 * `rrid` - A valid [Research Resource Identifier](https://scicrunch.org/resources)
 
 Valid values are specified as sets of predefined keywords for `string` and as [`min`, `max`] intervals for `integer` and `float` variables, where both `min` and `max` can be optionally omitted to define one-sided intervals.
-
-## Governance:
-Changes to MITI require a submission via `Github Issues` with the following information:
-
-* Scope and Field
-* Summary of changes
-* Example
-* Implementation as a pull request
-
-The community can discuss and vote for the submission via Github for at least 30 days.
-
-The initial governanceboard comprises (i)  **Denis Schapiro**, PhD, Research Group Leader at the Heidelberg University (Chair); (ii) **Adam Taylor**, PhD, Senior Research Scientist, Sage Bionetworks; (iii) **Sarah Arena**, MS, Data Scientist, Harvard Medical School and (iv)  **Markus D. Herrmann**, MD, PhD, Assistant Professor of Pathology, Mass General Hospital.
-
-This board will remain for 18 months and can be adjusted based on the community needs.
-
-The discussions should be limited to Github and `image.sc` forum in #mcmicro.
-
-If the implementation needs a revision, this needs to be submitted latest 30 days after acceptance.
-
 
 ## Example 1
 

@@ -9,6 +9,8 @@ nav-order: 1
 * **Specification:** [https://github.com/miti-consortium/MITI](https://github.com/miti-consortium/MITI)
 * **Reference publication:** [arxiv manuscript](https://arxiv.org/abs/2108.09499)
 
+HELLO WORLD! This is just a test.
+
 Minimum Information about Tissue Imaging (MITI) reporting guidelines comprise minimal metadata for highly multiplexed tissue images and were developed in consultation with methods developers, experts in imaging metadata (e.g., [DICOM](https://www.dicomstandard.org/) and [OME](https://www.openmicroscopy.org/)) and multiple large-scale atlasing projects; they are guided by existing standards and accommodate most multiplexed imaging technologies and both centralized and distributed data storage.
 
 A detailed specification of the standard is encoded in [YAML](https://yaml.org/) files, available at [https://github.com/miti-consortium/MITI](https://github.com/miti-consortium/MITI) and described in [LINK TO PAPER]. Individual files capture attributes, their description and significance, but also additional information that is essential for validating specific files; this includes ensuring that data in each field has the correct data type and that it meets constraints on valid values. Each attribute is associated with one of the following data types:

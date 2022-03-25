@@ -1,0 +1,14 @@
+name: Jekyll CI for Pull Requests
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/jekyll-build-pages@v1-beta

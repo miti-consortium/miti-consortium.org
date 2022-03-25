@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Governance
-nav-order: 2
+nav_order: 2
 ---
 
 # Governance
@@ -31,5 +31,11 @@ MITI Governance Board meetings occur quarterly and are open to the public. Dates
 June 2023 *Date to be announced*
 
 ### Previous MITI Meeting Minutes
-- [2022-03-23 Meeting Notes]({% link _documents/20220323-notes.md %})
-- [2022-01-13 Meeting Notes]({% link _documents/20220113-notes.md %})
+<ul>
+    {% assign notes = site.meeting-notes | reverse %}
+    {% for note in notes %}
+    <li>
+        <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

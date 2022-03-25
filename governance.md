@@ -28,7 +28,7 @@ If the implementation needs a revision, this needs to be submitted latest 30 day
 MITI Governance Board meetings occur quarterly and are open to the public. Dates and times for scheduled meetings will be posted below.
 
 ### Next Meeting
-June 2023 *Date to be announced*
+*June 2023 date to be announced*
 
 ### Previous MITI Meeting Minutes
 <ul>

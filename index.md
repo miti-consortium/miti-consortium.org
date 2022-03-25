@@ -7,7 +7,7 @@ nav_order: 1
 # MITI: Minimum Information about Tissue Imaging
 
 * **Specification:** [https://github.com/miti-consortium/MITI](https://github.com/miti-consortium/MITI)
-* **Reference publication:** [arxiv manuscript](https://arxiv.org/abs/2108.09499)
+* **Reference publication:** [Nature Methods publication](doi.org/10.1038/s41592-022-01415-4)
 
 Minimum Information about Tissue Imaging (MITI) reporting guidelines comprise minimal metadata for highly multiplexed tissue images and were developed in consultation with methods developers, experts in imaging metadata (e.g., [DICOM](https://www.dicomstandard.org/) and [OME](https://www.openmicroscopy.org/)) and multiple large-scale atlasing projects; they are guided by existing standards and accommodate most multiplexed imaging technologies and both centralized and distributed data storage.
 

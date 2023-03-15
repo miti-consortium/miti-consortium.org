@@ -28,7 +28,8 @@ If the implementation needs a revision, this needs to be submitted latest 30 day
 MITI Governance Board meetings occur quarterly and are open to the public. Dates and times for scheduled meetings will be posted below.
 
 ### Next Meeting
-*June 2023 date to be announced*
+March 22, 2023 at 10am EST via Zoom 
+*reach out to sarah_arena@hms.harvard.edu for the Zoom link*
 
 ### Previous MITI Meeting Minutes
 <ul>

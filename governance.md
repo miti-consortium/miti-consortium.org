@@ -23,10 +23,10 @@ Changes to MITI require a submission via `Github Issues` with the following info
 Please reach out to the governance board with questions about how to engage in community discussions or submit revisions. If the implementation needs a revision, the community can discuss and vote for the submission via Github for at least 30 days. 
 
 ## Meetings
-MITI Governance Board meetings occur quarterly and are open to the public. Dates and times for scheduled meetings will be posted below.
+MITI Governance Board meetings occur bi-monthly or quarterly and are open to the public. Dates and times for scheduled meetings will be posted below.
 
 ### Next Meeting
-The next MITI meeting will take place in early September via Zoom 
+The next MITI meeting will take place in December via Zoom 
 *reach out to sarah_arena@hms.harvard.edu for the Zoom link*
 
 ### Previous MITI Meeting Minutes
